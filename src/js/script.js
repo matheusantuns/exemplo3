@@ -33,3 +33,11 @@ console.log(typeof exemplo4)
 
 let exemplo5 =["aluno1","aluno2"];
 console.log(typeof exemplo5)
+
+// conversões
+
+let numfloat =123.456;
+console.log(parseInt(numfloat));
+
+let numString ="123.456";
+console.log(parseFloat(numString));
