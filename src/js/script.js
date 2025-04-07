@@ -129,21 +129,22 @@
 
 // ternario
 
-let valor = 100;
+// let valor = 100;
 
-let resultado = valor == 100 ? "certo" : "errado"
-console.log(resultado)
+// let resultado = valor == 100 ? "certo" : "errado"
+// console.log(resultado)
 
 // ternario encadeado
 
-let produto = "notebook"
-const preco= produto === "notebook" ? desconto ? 100 :200 :produto ==="mouse" ?30 :100;
-console.log(preco)
+// let produto = "notebook"
+// const preco= produto === "notebook" ? desconto ? 100 :200 :produto ==="mouse" ?30 :100;
+// console.log(preco)
 
 // estrutura de repetição
 
 // for
 
 for(let i=0; i<=10;i++){
+    console.log("O valor I é:" ,i)
 
 }
